@@ -1,0 +1,148 @@
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\Bot Application.dll.config
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\Bot Application.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\Bot Application.pdb
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\Autofac.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\Chronic.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\Microsoft.Bot.Builder.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\Microsoft.Bot.Connector.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\Newtonsoft.Json.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\System.Net.Http.Formatting.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\System.Web.Http.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\System.Web.Http.WebHost.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\Autofac.xml
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\Microsoft.Bot.Builder.xml
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\Microsoft.Bot.Connector.xml
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\Newtonsoft.Json.xml
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\System.Net.Http.Formatting.xml
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\System.Web.Http.xml
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\System.Web.Http.WebHost.xml
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\obj\Debug\Bot ApplicationTest.csprojAssemblyReference.cache
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\obj\Debug\Bot ApplicationTest.csproj.CoreCompileInputs.cache
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\obj\Debug\Bot ApplicationTest.csproj.CopyComplete
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\obj\Debug\Bot Application.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\obj\Debug\Bot Application.pdb
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\AuthBot.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\Microsoft.Graph.Core.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\Microsoft.Graph.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\Microsoft.Identity.Client.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\Microsoft.Identity.Client.Platform.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\Microsoft.Win32.Primitives.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\System.ValueTuple.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\Microsoft.Graph.xml
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\Microsoft.Graph.Core.xml
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\Microsoft.Identity.Client.xml
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\Microsoft.Identity.Client.Platform.xml
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest\Bot ApplicationTest\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\Bot Application.dll.config
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\Bot Application.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\Bot Application.pdb
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\AuthBot.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\Autofac.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\Chronic.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\Microsoft.Bot.Builder.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\Microsoft.Bot.Connector.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\Microsoft.Graph.Core.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\Microsoft.Graph.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\Microsoft.Identity.Client.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\Microsoft.Identity.Client.Platform.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\Microsoft.Win32.Primitives.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\Newtonsoft.Json.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\RestSharp.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\System.Net.Http.Formatting.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\System.ValueTuple.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\System.Web.Http.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\System.Web.Http.WebHost.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\Autofac.xml
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\Microsoft.Bot.Builder.xml
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\Microsoft.Bot.Connector.xml
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\Microsoft.Graph.xml
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\Microsoft.Graph.Core.xml
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\Microsoft.Identity.Client.xml
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\Microsoft.Identity.Client.Platform.xml
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\Newtonsoft.Json.xml
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\RestSharp.xml
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\System.Net.Http.Formatting.xml
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\System.Web.Http.xml
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\System.Web.Http.WebHost.xml
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\obj\Debug\Bot ApplicationTest.csprojAssemblyReference.cache
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\obj\Debug\Bot ApplicationTest.csproj.CoreCompileInputs.cache
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\obj\Debug\Bot ApplicationTest.csproj.CopyComplete
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\obj\Debug\Bot Application.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\obj\Debug\Bot Application.pdb
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\BotAuth.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\engsooncheah\source\repos\Bot ApplicationTest - Copy\Bot ApplicationTest\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
