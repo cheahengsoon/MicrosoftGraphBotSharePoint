@@ -1,0 +1,15 @@
+C:\Users\ENG SOON CHEAH\source\repos\O365TeamsBot\O365TeamsBot\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\ENG SOON CHEAH\source\repos\O365TeamsBot\O365TeamsBot\bin\Debug\netcoreapp2.1\O365TeamsBot.deps.json
+C:\Users\ENG SOON CHEAH\source\repos\O365TeamsBot\O365TeamsBot\bin\Debug\netcoreapp2.1\O365TeamsBot.runtimeconfig.json
+C:\Users\ENG SOON CHEAH\source\repos\O365TeamsBot\O365TeamsBot\bin\Debug\netcoreapp2.1\O365TeamsBot.runtimeconfig.dev.json
+C:\Users\ENG SOON CHEAH\source\repos\O365TeamsBot\O365TeamsBot\bin\Debug\netcoreapp2.1\O365TeamsBot.dll
+C:\Users\ENG SOON CHEAH\source\repos\O365TeamsBot\O365TeamsBot\obj\Debug\netcoreapp2.1\O365TeamsBot.csprojAssemblyReference.cache
+C:\Users\ENG SOON CHEAH\source\repos\O365TeamsBot\O365TeamsBot\obj\Debug\netcoreapp2.1\O365TeamsBot.csproj.CoreCompileInputs.cache
+C:\Users\ENG SOON CHEAH\source\repos\O365TeamsBot\O365TeamsBot\obj\Debug\netcoreapp2.1\O365TeamsBot.RazorAssemblyInfo.cache
+C:\Users\ENG SOON CHEAH\source\repos\O365TeamsBot\O365TeamsBot\obj\Debug\netcoreapp2.1\O365TeamsBot.RazorAssemblyInfo.cs
+C:\Users\ENG SOON CHEAH\source\repos\O365TeamsBot\O365TeamsBot\obj\Debug\netcoreapp2.1\O365TeamsBot.AssemblyInfoInputs.cache
+C:\Users\ENG SOON CHEAH\source\repos\O365TeamsBot\O365TeamsBot\obj\Debug\netcoreapp2.1\O365TeamsBot.AssemblyInfo.cs
+C:\Users\ENG SOON CHEAH\source\repos\O365TeamsBot\O365TeamsBot\obj\Debug\netcoreapp2.1\O365TeamsBot.RazorTargetAssemblyInfo.cache
+C:\Users\ENG SOON CHEAH\source\repos\O365TeamsBot\O365TeamsBot\bin\Debug\netcoreapp2.1\O365TeamsBot.pdb
+C:\Users\ENG SOON CHEAH\source\repos\O365TeamsBot\O365TeamsBot\obj\Debug\netcoreapp2.1\O365TeamsBot.dll
+C:\Users\ENG SOON CHEAH\source\repos\O365TeamsBot\O365TeamsBot\obj\Debug\netcoreapp2.1\O365TeamsBot.pdb
