@@ -2,7 +2,7 @@
 Microsoft Graph Bot v3 - SharePoint
 
 # Next
-Update to Bot SDK v4 <br/>
+Update to Bot SDK v4 - Done<br/>
 LUIS
 
 # Steps
