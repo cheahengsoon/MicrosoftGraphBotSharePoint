@@ -13,3 +13,5 @@ LUIS
 # In Progress to Bot Builder v4
 1. Bot Builder v4 - 20 June 2019
 2. Get Token from Microsoft Graph - 20 June 2019
+3. Retrieve Data From SharePoint - 24 June 2019
+4. Display Data in Carousel - 24 June 2019
