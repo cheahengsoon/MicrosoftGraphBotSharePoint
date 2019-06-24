@@ -141,7 +141,7 @@ namespace O365TeamsBot.Dialogs
                 }
             }
    
-            return await stepContext.EndDialogAsync(cancellationToken: cancellationToken);
+             return await stepContext.BeginDialogAsync(nameof(TextPrompt), cancellationToken: cancellationToken);
         }
 
         private async Task<DialogTurnResult> DisplayTokenPhase2Async(WaterfallStepContext stepContext, CancellationToken cancellationToken)
