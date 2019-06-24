@@ -111,7 +111,7 @@ namespace O365TeamsBot.Dialogs
                     request2.AddHeader("Authorization", "Bearer " + token.access_token);
                     IRestResponse response2 = client2.Execute(request2);
 
-                    await stepContext.Context.SendActivityAsync(MessageFactory.Text($"You say : {response2.Content}"), cancellationToken);
+                  //  await stepContext.Context.SendActivityAsync(MessageFactory.Text($"You say : {response2.Content}"), cancellationToken);
 
                     var cardActivity = Activity.CreateMessageActivity();
 
