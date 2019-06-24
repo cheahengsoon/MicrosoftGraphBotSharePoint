@@ -2,7 +2,6 @@
 Microsoft Graph Bot Framework v3 & v4 - SharePoint
 
 # Next
-Get Data from SharePoint <br/>
 LUIS
 
 # Steps
