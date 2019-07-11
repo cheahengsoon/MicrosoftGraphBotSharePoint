@@ -17,4 +17,5 @@ LUIS
 
 # References
 Step by Step: Configure Bot to Work in Teams and with Microsoft Graph
+
 http://blog.aterentiev.com/2019/07/step-by-step-configure-bot-to-work-in.html
