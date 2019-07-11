@@ -14,3 +14,7 @@ LUIS
 2. Get Token from Microsoft Graph - 20 June 2019
 3. Retrieve Data From SharePoint - 24 June 2019
 4. Display Data in Carousel - 24 June 2019
+
+# References
+Step by Step: Configure Bot to Work in Teams and with Microsoft Graph
+http://blog.aterentiev.com/2019/07/step-by-step-configure-bot-to-work-in.html
